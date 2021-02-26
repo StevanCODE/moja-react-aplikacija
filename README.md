@@ -1,4 +1,5 @@
 # Dependencies: React Router, Styled Components, Axios
+# Deployed at : https://moja-react-aplikacija.herokuapp.com/
 
 # Getting Started with Create React App
 
